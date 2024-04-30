@@ -103,7 +103,7 @@
 					<parallel>classes</parallel>
 					<threadCount>4</threadCount>
 					<includes>
-						<include>**/*Adactin_runner*.java</include>
+						<include>**/*RunnerClass*.java</include>
 					</includes>
 				</configuration>
 			</plugin>
